@@ -192,7 +192,8 @@
       "highlights": [
         "Aprendizaje sobre Back End"
       ],
-      "url": "https://ld-linq.vercel.app"
+      "url": "https://ld-linq.vercel.app",
+      "github": "https://github.com/lorddesert/link-shortener"
     },
     {
       "name": "Imigy",
@@ -202,7 +203,8 @@
         "0 bugs",
         "Lo hice 100% como aparecio en mi sueño"
       ],
-      "url": "https://imigy.vercel.app"
+      "url": "https://imigy.vercel.app",
+      "github": "https://github.com/lorddesert/imigy"
     }
   ]
 }
