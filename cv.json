@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Sacha Nocetto",
-    "label": "Full Stack Developer con más de 3 años de experiencia especializado en Front end",
+    "label": "Full Stack Developer con más de 3 años de experiencia especializado en Frontend",
     "image": "/me.webp",
     "email": "sacha.nocetto@hotmail.com",
     "phone": "",
     "url": "https://lorddesert.xyz",
-    "summary": "+3 años de experiencia como Desarrollador Web. Vivo en Buenos Aires, Argentina. He trabajado en diferentes entornos: desde desarrollar productos de inicio a producción hasta liderar equipos de Front End.",
+    "summary": "+3 años de experiencia como Desarrollador Web. He trabajado en diferentes entornos: desde desarrollar productos de inicio a producción hasta liderar equipos de Frontend.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Buenos Aires",
-      "countryCode": "ES",
+      "countryCode": "AR",
       "region": "Argentina"
     },
     "profiles": [
@@ -34,6 +34,16 @@
   },
   "work": [
     {
+      "name": "Freelance (Self employed)",
+      "position": "Fullstack developer",
+      "url": "https://lorddesert.xyz/",
+      "startDate": "2023-08-20",
+      "summary": "Web development y servicio de consultoría.",
+      "highlights": [
+        "Liderar equipo de frontend y resolver un problema crítico sin agregar tiempo extra en el sprint."
+      ]
+    },
+    {
       "name": "NewCombin",
       "position": "Software Engineer",
       "url": "https://newcombin.com/",
@@ -41,28 +51,29 @@
       "endDate": "2023-05-30",
       "summary": "Trabajar codo a codo con clientes y equipos de EE. UU. realizando aumento de personal contribuyendo a agregar valor a sus empresas y desarrollando soluciones de calidad que puedan escalar.",
       "highlights": [
-        "Lider equipo de front end y resolver un problema critico sin agregar tiempo extra en el sprint."
+        "Liderar equipo de frontend y resolver un problema crítico sin agregar tiempo extra en el sprint."
       ]
     },
     {
       "name": "Quartex.net",
-      "position": "Front End Developer",
+      "position": "Frontend Developer",
       "startDate": "2020-04-01",
       "endDate": "2021-07-01",
-      "summary": "Auditoria y mejora de nuevas implementaciones a la interfaz de usuario asegurando la calidad y la accesibilidad del sitio.",
+      "url": "https://web.archive.org/web/20240000000000*/quartex.net",
+      "summary": "Auditoría y mejora de nuevas implementaciones a la interfaz de usuario asegurando la calidad y la accesibilidad del sitio.",
       "highlights": [
-        "Diseñar las principales vistas de la aplicacion: Posts, y Home page."
+        "Diseñar las principales vistas de la aplicación: Posts y Home page."
       ]
     }
   ],
   "volunteer": [],
   "education": [{
-    "institution": "Universidad Tecnologica Nacional",
+    "institution": "Universidad Tecnológica Nacional",
     "url": "https://frh.utn.edu.ar/",
     "area": "Tecnicatura Superior en Programación",
     "studyType": "higher technical degree",
     "startDate": "2018-03-10",
-    "endDate": "2018-12-7",
+    "endDate": "2018-12-07",
     "score": "4.0",
     "courses": null
   }],
@@ -190,7 +201,7 @@
       "isActive": true,
       "description": "Link shortener minimalista.",
       "highlights": [
-        "Aprendizaje sobre Back End"
+        "Aprendizaje sobre Backend"
       ],
       "url": "https://ld-linq.vercel.app",
       "github": "https://github.com/lorddesert/link-shortener"
@@ -198,10 +209,10 @@
     {
       "name": "Imigy",
       "isActive": false,
-      "description": "Postear/guardar screenshots. El proyecto nacio cuando soñe con la interfaz.",
+      "description": "Postear/guardar screenshots. El proyecto nació cuando soñé con la interfaz.",
       "highlights": [
         "0 bugs",
-        "Lo hice 100% como aparecio en mi sueño"
+        "Lo hice 100% como apareció en mi sueño"
       ],
       "url": "https://imigy.vercel.app",
       "github": "https://github.com/lorddesert/imigy"
